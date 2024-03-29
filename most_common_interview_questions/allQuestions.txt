@@ -1,0 +1,22 @@
+1. Reverse a String.
+2. Fibonacci Series.
+3. Prime Number .
+4. Sum of digits in a number.
+5. Convert integer to String.
+6. Remove duplicate elements in an array.
+7. Print the occurance of each character in a String.
+8. Print only the words in a String sentence ignoring whitespace,comma and other punctuation.
+9. Swap two integers using a temporary variable.
+10. Swap two integers without using a temporary variable.
+11. Swap two Strings using a temporary variable.
+12. Swap two Strings without using a temporary variable.
+
+
+Questions that were been asked from me in these companies: 
+1) Company: nFerence 
+qos(1): Leetcode - Frog Jump
+Qos(2): Parenthesis balancer. 
+
+2) Company: nyka
+qos(1): Print the frequencies of characters from a string. 
+qos(2): Find the missing number from the unsorted array. 
