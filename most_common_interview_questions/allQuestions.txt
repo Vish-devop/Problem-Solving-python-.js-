@@ -10,6 +10,7 @@
 10. Swap two integers without using a temporary variable.
 11. Swap two Strings using a temporary variable.
 12. Swap two Strings without using a temporary variable.
+13. Print the longest substring without repeating characters.
 
 
 Questions that were been asked from me in these companies: 
