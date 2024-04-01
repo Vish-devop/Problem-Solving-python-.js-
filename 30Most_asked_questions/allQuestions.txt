@@ -1,0 +1,31 @@
+1. Swap (2) numbers 
+2. Reverse a number 
+3. Reverse a string
+4. Check a given number is palindrome or not
+5. Check a given string is palindrome or not. 
+6. Count number of digit present in a number 
+7. Count number of even and odd digits present in a number.
+8. Count the sum of all the digits in a number
+9. Finding the largest of 3 numbers
+10. Generating fibonacci series 
+
+11. Check given number is prime or not. 
+12. Generate random numbers and strings.
+13. Find factoriaal of a number
+14. Find sum of elements in an array.
+15. Print even and odd numbers from an array.
+16. Check whether two arrays are equal to each other or not. 
+17. Find the missing number in an array.
+18. Find the maximum and minimum values in array.
+19. Find duplicate elements present in an array. 
+20. Apply the linear search
+
+21. Apply the binary search 
+22. Sort the elements using bubble Sort
+23. Sort elements in array using built-in methods.
+24. remove junk or special characters from a string. 
+25. Remove white spaces from a string
+26. Count the occurences of a characters in a string.
+27. Count words in a string
+28. Reverse each word present inside a string.
+29. Reverse a sentence not the words.
